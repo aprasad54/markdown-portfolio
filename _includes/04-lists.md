@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+
+[ ] Learn GitHub
+
+[ ] Practise some allocated tasks from GitHub 
+
+[X] Learn about AWS Cloud Computing
+
+[ ] Have Fun along the way
